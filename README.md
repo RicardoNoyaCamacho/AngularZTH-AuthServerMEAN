@@ -1,2 +1,3 @@
-# Angular-ZeroToHero
- Curso para reforzar bases de Angular
+# Auth Server MEAN
+
+Ejemplo de un server MEAN
